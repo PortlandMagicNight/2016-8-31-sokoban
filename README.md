@@ -121,10 +121,11 @@ Here are some famous boards to get your team started building your Sokoban game.
 ````
 
 
-
-
-
 More about Sokoban board encoding  here http://sokobano.de/wiki/index.php?title=Level_format
+
+(Note: These Sokoban levels are Copyrighted
+by Thinking Rabbit. You may play them but not profit from them in any way.)
+
 
 
 ##About Portland MagicNight
@@ -138,8 +139,7 @@ MagicNight is hosted at Notch8workspace coworking space in inner NE
 Much thanks to Bright Night and San Diego Magic Night for dreaming up the idea.
 
 Questions or comments?
+
 magicnight at notch8workspace.com
 
-(Note: These levels are Copyrighted
-by Thinking Rabbit. You may play them but not profit from them in any way.)
 
