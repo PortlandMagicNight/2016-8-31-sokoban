@@ -127,7 +127,18 @@ Here are some famous boards to get your team started building your Sokoban game.
 More about Sokoban board encoding  here http://sokobano.de/wiki/index.php?title=Level_format
 
 
+##About Portland MagicNight
 
+MagicNight is hosted at Notch8workspace coworking space in inner NE
+
+```
+2117 NE Oregon St. #504
+```
+
+Much thanks to Bright Night and San Diego Magic Night for dreaming up the idea.
+
+Questions or comments?
+magicnight at notch8workspace.com
 
 (Note: These levels are Copyrighted
 by Thinking Rabbit. You may play them but not profit from them in any way.)
