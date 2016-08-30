@@ -1,4 +1,4 @@
-# 2016-8-31-sokoban
+# 2016-8-30-sokoban
 ## Portland MagicNight - Javascript Coding Challenge
 Sokoban puzzle generator and gameplay
 
