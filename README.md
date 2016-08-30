@@ -76,6 +76,8 @@ $       for crates
 #       for walls
 <space> for open floor
 .       for storage
++       for keeper on storage
+*       for crate on storage
 ```
 
 If we want to describe this board:
@@ -98,7 +100,7 @@ We can encode it like this:
 
 Note that:
 Rows are delimited by a '|'
-Any symbol preceeded by a number repeats that symbol the specified times.
+Any symbol preceded by a number repeats that symbol the specified times.
 Empty spaces a denoted by a '-'
 
 
@@ -118,6 +120,21 @@ Here are some famous boards to get your team started building your Sokoban game.
 #######
 
 7#|#.@-#-#|#$*-$-#|#3-$-#|#-..--#|#--*--#|7#
+````
+
+"Microcosmos Level 31", by Aymeric du Peloux
+```
+  #####
+###   #
+#  *# ##
+# #  * #
+# *  # #
+## #+  #
+ #   $##
+ ###  #
+   #### 
+
+--#####|###---#|#--*#-##|#-#--*-#|#-*--#-#|##-#+--#|-#---$##|-###--#|---####
 ````
 
 
