@@ -108,6 +108,21 @@ Empty spaces a denoted by a '-'
 Here are some famous boards to get your team started building your Sokoban game.
 
 
+"Scrambled Egg" by Takaken
+```
+ #####
+ # @ ###
+## #$  #
+# *. . #
+#  $$ ##
+### #.#
+  #   #
+  #####
+
+-5#2-|-#-@-3#|2#-#$2-#|# *.-.-#|#2#2$-2#|3#-#.#|2-#3-#|2-5# 
+```
+
+
 "Claire", by Lee J Haywood
 
 ```
@@ -139,9 +154,9 @@ Here are some famous boards to get your team started building your Sokoban game.
 
 
 More about Sokoban board encoding  here http://sokobano.de/wiki/index.php?title=Level_format
+More boards to Code http://www.ic-net.or.jp/home/takaken/e/soko/level/index.html
 
-(Note: These Sokoban levels are Copyrighted
-by Thinking Rabbit. You may play them but not profit from them in any way.)
+(Note: Most of these Sokoban levels are Copyrighted. You may play them but not profit from them in any way.)
 
 
 
