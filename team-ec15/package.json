@@ -1,0 +1,24 @@
+{
+  "name": "2016-8-31-sokoban",
+  "version": "1.0.0",
+  "description": "Sokoban puzzle generator and gameplay",
+  "main": "test.js",
+  "dependencies": {
+    "lodash": "^4.15.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PortlandMagicNight/2016-8-31-sokoban.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PortlandMagicNight/2016-8-31-sokoban/issues"
+  },
+  "homepage": "https://github.com/PortlandMagicNight/2016-8-31-sokoban#readme"
+}
